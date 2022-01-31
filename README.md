@@ -11,3 +11,5 @@ I noticed that many people were having the issue that they were not able to acce
 5. Double click on Salhack and there should be a folder there called "GUI", double click on that folder
 6. You should see a UI.json folder there, delete that and paste the new UI.json I have given below
 7. Run minecraft and the UI tab will appear
+
+New UI.json file: 
