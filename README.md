@@ -1,6 +1,6 @@
 [![Sal Hack logo](/src/main/resources/assets/salhack/imgs/SalHackWatermark.png)](https://discord.gg/mj9sVWf)
 
-[![Gradle Build]](https://github.com/ionar2/salhack/actions)
+[!](https://github.com/ionar2/salhack/actions)
 [![GitHub All Releases](https://img.shields.io/github/downloads/CreepyOrb924/creepy-salhack/total.svg)](https://github.com/CreepyOrb924/creepy-salhack/releases)
 
 ## Salhack
