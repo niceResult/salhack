@@ -9,7 +9,6 @@ I noticed that many people were having the issue that they were not able to acce
 3. You should not be redirected to your file explorer. There will be a folder in there called ".minecraft"
 4. Double click on that folder, and you should see another folder called Salhack(i.e if you have downloaded and used Salhack before)
 5. Double click on Salhack and there should be a folder there called "GUI", double click on that folder
-6. You should see a UI.json folder there, delete that and paste the new UI.json I have given below
-7. Run minecraft and the UI tab will appear
-
-New UI.json file: 
+6. You should see a UI.json folder there, open that UI.json file in a notepad
+7. You will see posX and posY, posX will be 529 somewhere, change that to 3 and let posY value remain same
+8. Now save that file, and start Minecraft and your UI will appear
