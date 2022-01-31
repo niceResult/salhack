@@ -1,5 +1,5 @@
 #Salhack
-[](https://github.com/niceResult/salhack/actions)
+
 Note: Credit goes to CreepyOrb924 for making this hack client. Original repository link: https://github.com/CreepyOrb924/creepy-salhack/
 
 I noticed that many people were having the issue that they were not able to access to UI tab in "Salhack" hack client, so I went throught the code and fixed it. I will show you how to fix it too.
